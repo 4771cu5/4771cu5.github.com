@@ -7,25 +7,25 @@
 author:
   ## Author's name, <meta name=author> in _layouts/default.html and used in
   ## humans.txt
-  name:      Kaleb Hornsby
+  name:      Atticus
   ## Author's title
   title:     Software Engineer
   ## Author's email address
-  email:     kaleb@hornsby.ws
+  email:     4771cu5@googlemail.com
   ## Author's web site
-  site:      http://kaleb.hornsby.ws
+  site:      http://atticus.hornsby.ws
   ## Author's location
-  location:  "Augusta, GA, US"
+  location:  "Dallas"
   ## Author's github user name
   gh:
-    user:    kaleb
+    user:    4771cu5
     repo:    gh-pages-boilerplate
   ## Author's twitter name
-  twitter:   thekaleb
+  twitter:   4771cu5
 
 ## The absolute URL of your site. Should be user.github.com or whatever is in
 ## the root CNAME file
-url:         http://git.kaleb.hornsby.ws/gh-pages-boilerplate
+url:         http://4771cu5.github.com
 
 ## The name of the site, <title> and <h1> in _layouts/default.html
 title:       My Site
